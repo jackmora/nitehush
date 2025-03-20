@@ -5,3 +5,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://nitehush.vercel.app/sitemap.xml
+Sitemap: https://nitehush.vercel.app/sitemap_index.xml
